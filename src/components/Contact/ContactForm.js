@@ -111,7 +111,7 @@ const ContactForm = () => {
           return (
             <>
               <div className='sign-box'>
-                <h1>Send Successfully</h1>
+                <h1>Thank you for contacting us!</h1>
                 <h3>
                   First Name: <p>{fname}</p>
                 </h3>
